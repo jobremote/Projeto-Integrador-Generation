@@ -1,6 +1,6 @@
 # Edunity
 
-##A Edunity promove e incentiva uma rede de apoio com um repertório de conteúdo rico, compartilhado por professores e educadores voluntários através de mídias comuns no nosso dia-dia e que esse software contribua também como uma rede de apoio para crianças e jovens.
+## A Edunity promove e incentiva uma rede de apoio com um repertório de conteúdo rico, compartilhado por professores e educadores voluntários através de mídias comuns no nosso dia-dia e que esse software contribua também como uma rede de apoio para crianças e jovens.
 
 Link da aplicação [aqui](https://edunityweb.herokuapp.com/)
 
